@@ -1,0 +1,26 @@
+.box_container {
+  width: 300px;
+  height: 200px;
+  border: 3px solid;
+  border-color: lightpink;
+  border-radius: 5px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+
+  background-color: lightpink;
+  margin: 3px;
+
+  color: white;
+  font-size: 25px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
